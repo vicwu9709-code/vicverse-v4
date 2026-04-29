@@ -171,16 +171,16 @@ export default function Home({ posts }: { posts: any[] }) {
 
         <div className="mt-8 space-y-4 text-gray-300">
           <p>
-            <span className="font-bold text-white">学校邮箱：</span> your-school-email@example.com
+            <span className="font-bold text-white">学校邮箱：</span> wuweizheng@mails.neu.edu.cn
           </p>
           <p>
-            <span className="font-bold text-white">Gmail：</span> your-gmail@gmail.com
+            <span className="font-bold text-white">Gmail：</span> vicwu9709@gmail.com
           </p>
           <p>
-            <span className="font-bold text-white">QQ邮箱：</span> your-qq@qq.com
+            <span className="font-bold text-white">QQ邮箱：</span> 3110766414@qq.com
           </p>
           <p>
-            <span className="font-bold text-white">微信：</span> your-wechat-id
+            <span className="font-bold text-white">微信：</span> VicWu2007
           </p>
         </div>
 
